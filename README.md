@@ -10,7 +10,6 @@ I'm a Frontend Developer passionate about creating beautiful and responsive web 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amira1611osama&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amira1611osama&theme=radical&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amira1611osama&icon=4&color=5)](https://visitcount.itsvg.in)
